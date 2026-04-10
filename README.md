@@ -176,8 +176,6 @@ src/
 
 ## Development Roadmap
 
-See `tasks.md` for detailed progress tracking.
-
 Completed:
 - Stage 1: Foundation and Project Setup
 - Stage 2: IndexedDB Schema and Integration
